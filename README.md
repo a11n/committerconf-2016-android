@@ -1,5 +1,6 @@
 # CommitterConf 2016 Android Workshop
 Code of the Android workshop at CommitterConf 2016.
+![Screenshot](screenshot.png)
 
 # Slides
 https://speakerdeck.com/a11n/introduction-into-android-development
