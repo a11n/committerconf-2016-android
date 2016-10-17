@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:padding="16dp"
+    >
+
+  <TextView
+      android:id="@+id/tvTitle"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+      tools:text="Title"
+      />
+
+  <TextView
+      android:id="@+id/tvSpeaker"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
+      tools:text="Speaker"
+      />
+  <TextView
+      android:id="@+id/tvTags"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:textAppearance="@style/Base.TextAppearance.AppCompat.Small"
+      tools:text="Tags"
+      />
+</LinearLayout>

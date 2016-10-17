@@ -1,0 +1,25 @@
+{
+  "sessions": [
+    {
+      "id": 1,
+      "title": "Einstieg in die Android-Entwicklung",
+      "speaker": "André Diermann",
+      "tags": "Android",
+      "description": "Android ist das mobile Open-Source Betriebssystem Nummer 1. Die Entwicklung eigener mobiler Anwendungen ist dabei ziemlich komfortabel. Der Einstieg gestaltet sich jedoch aufgrund der Fülle an Informationen häufig nicht immer einfach. In diesem Workshop wird gemeinsam Schritt für Schritt eine Android-App entwickelt und dabei alle notwendigen Grundlagen erläutert. Teilnehmer erhalten einen unkomplizierten Einblick in verschiedene interessante Bereiche der App-Entwicklung."
+    },
+    {
+      "id": 2,
+      "title": "Automation mit Jenkins 2.0",
+      "speaker": "Sujeevan Vijayakumaran",
+      "tags": "jenkins, automation, continuous integration",
+      "description": "Jenkins war ursprünglich lange ein reiner Contrinuous Integration Server. Durch den Release von 2.0 hat es sich allerdings etwas gewandelt und bezeichnet sich nun als Open Source Automation Server – was Continuous Integration beinhaltet. Der Vortrag gibt einen Einstieg in die Nutzung und Features von Jenkins 2.0 und zeigt auch die neuesten und praktischsten Features, die in dieser Version eingeflossen sind."
+    },
+    {
+      "id": 3,
+      "title": "Als Software Craftsman im IT Consulting - Die Quadratur des Kreises?",
+      "speaker": "Benedikt Ritter",
+      "tags": "Software Craftsmanship",
+      "description": "Benedikt Ritter berichtet über den Alltag als IT Consultant und wie sich die Realität im Projektgeschäft mir den Werten des Software Craftsmanship vereinen lässt."
+    }
+  ]
+}
